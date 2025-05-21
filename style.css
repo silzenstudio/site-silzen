@@ -21,7 +21,7 @@ header::before {
   content: "";
   position: absolute;
   inset: 0; /* substitui top, left, right, bottom: 0 */
-  background: url('imagem/IMG-20250521-WA0007-removebg-preview.png') no-repeat center center;
+  background: url('IMG-20250521-WA0007-removebg-preview.png') no-repeat center center;
   background-size: cover; /* ou use 'contain' se preferir manter proporção */
   opacity: 0.5;
   z-index: 0;
