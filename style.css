@@ -5,7 +5,7 @@
   font-family: 'Montserrat', sans-serif;
 }
 body {
-  background: #9e9b9b;
+   background: linear-gradient(135deg, #1f1f1f, #3a3a3a);
   color: white;
   line-height: 1.6;
 }
@@ -358,5 +358,14 @@ footer {
   font-size: 0.95rem;
   color: #ccc;
   line-height: 1.4;
+}
+h5 {
+  color: #ccc !important;
+  font-weight: 500 !important;
+}
+
+p {
+  color: #ddd !important;
+  font-size: 1rem !important;
 }
 
