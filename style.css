@@ -98,7 +98,7 @@ a.button:hover {
 .portfolio h2 {
   font-size: 2rem;
   margin-bottom: 2rem;
-  color: #d3d3d3; !important
+  color: #d3d3d3 !important;
 }
 .portfolio-grid {
   display: grid;
